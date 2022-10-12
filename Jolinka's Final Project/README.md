@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Html,Css,Bootstrap**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: bobo.zh.cai@gmail.com</h3>
 <p align="left">
 </p>
 
